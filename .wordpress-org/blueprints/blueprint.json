@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=reviews-widgets%2Fsettings.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-wordpressPlugin-preview": "1"
+            }
+        }
+    ]
+}
